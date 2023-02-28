@@ -1,0 +1,21 @@
+td {
+	width: 50px;
+	height: 50px;
+	border: 1px solid black;
+}
+.a{
+	text-decoration: line-through;
+}
+.b{
+	background-color: green;
+}
+
+.b:active{
+	background-color: white;
+}
+.hidden {
+	display: none;
+}
+.active {
+	background: red;
+}
